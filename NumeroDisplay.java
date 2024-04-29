@@ -2,7 +2,7 @@
 
 public class NumeroDisplay
 {
-    private int limite;
+    private int limite; //estoy modificando
     private int valor;
     
     //***************************************************************
